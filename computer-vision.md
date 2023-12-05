@@ -6,6 +6,7 @@
 ### Annotation
 - [CVAT](https://www.cvat.ai/) - Free Online Version & Self Hosting Available
 - [Label Studio](https://github.com/HumanSignal/label-studio) - Open Source (option to integrate Facebook's Segment Anything Model (SAM))
+- [SuperAnnotate](https://www.superannotate.com/) - Commercial tool with free plan
 
 
 ## Models
