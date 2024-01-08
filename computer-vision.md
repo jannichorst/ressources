@@ -14,4 +14,7 @@
 - [Yolo v8](https://github.com/ultralytics/ultralytics)
 - [CLIP](https://github.com/openai/CLIP) - Image to Text model by OpenAI
 
+## Model Hubs & Repositories
+- [OpenCV Model Zoo](https://github.com/opencv/opencv_zoo)
+
 
