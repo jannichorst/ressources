@@ -1,4 +1,4 @@
 # Tools
 
-## Mindmap & Whiteboards
-- [Excalidraw](https://excalidraw.com/) - Handdrawn whiteboard in the browser (no accoount needed)
+## Mindmap, Whiteboards & Diagrams
+- [Excalidraw](https://excalidraw.com/) - sketching hand-drawn diagrams in the browser (no accoount needed)
