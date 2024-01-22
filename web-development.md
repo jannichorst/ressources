@@ -9,4 +9,5 @@
 ## Icons
 - [Simple Icons](https://simpleicons.org/) - Free SVG brand icons
 - [ionicons](https://ionic.io/ionicons) - Open source icons for use in web, iOS, Android, and desktop apps
+- [IconSVG.xyz](https://iconsvg.xyz/) - Quick customizable icons for your projects
 
