@@ -16,7 +16,11 @@ Just a collection of video related tools I find interesting.
 
 # VFX
 - [Move.Ai](https://www.move.ai) - Motion capture from video
-  
+
+# Motion Graphics
+- [Animate Code](https://www.animate-code.com) - Animated Code Slideshow in the Browser
+
+
 # Pre-Production
 - [Eyecandy](https://eycndy.co) - Film techniques database
 - [Boords](https://boords.com) - Storyboard tool (paid only)
