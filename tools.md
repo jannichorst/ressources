@@ -7,3 +7,6 @@
 
 ## Markdown
 - [TableGenerator](https://www.tablesgenerator.com/markdown_tables) - Generating markdown Tables. Also for LaTex, HTML...
+
+## Others
+- [Open Alternative](https://openalternative.co) - List of open source alternatives for popular software
