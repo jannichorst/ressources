@@ -4,6 +4,7 @@
 
 # Artificial Intelligence
 - [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/) - By Microsoft
+- [ML for Graphs](https://web.stanford.edu/class/cs224w/) - Standford course
 
 # Automation
 - [Fundamentals of Business Process Automation](https://www.youtube.com/playlist?list=PL9iw99lS3Prj5VoC4Bwhmj9Wawd2r-Vtt) -  by Jan Mendling (Prof. at Humboldt University Berlin)
