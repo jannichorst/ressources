@@ -2,7 +2,7 @@
 
 ## [Creative Resources](./creative.md)
 
-Collection of bookmarked websites featuring galleries of creative and award-winning web designs, sorted by elements and categories.
+Collection of bookmarked places including galleries of creative websites, dark mode designs, award-winning sites, and web design inspirations.
 
 **Tags:** web development, design inspiration, resource collection
 
@@ -10,49 +10,49 @@ Collection of bookmarked websites featuring galleries of creative and award-winn
 
 ## [Datasets and Databases](./data.md)
 
-Collection of datasets and databases related to OCR, documents, scene/images, NLP, and other semantic types.
+Collection of datasets and databases related to OCR, documents, scene/images, NLP, and a semantic type registry.
 
-**Tags:** datasets, databases, OCR, documents, scene, images, NLP, semantic types
+**Tags:** datasets, databases, OCR, documents, images, NLP, semantic
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-A collection of web development resources including CSS code generators, open-source UI elements, and free SVG brand icons and customizable icons for projects.
+A collection of resources including CSS code generator, open-source UI elements, and free SVG brand icons for web and app development.
 
-**Tags:** web development, CSS, UI, icons
+**Tags:** web development, CSS, UI, icons, resources
 
 ---
 
 ## [APIs](./api.md)
 
-A collection of various API resources including API lists, public APIs on GitHub, and a blog discussing free and no-auth-required APIs.
+A collection of various API resources including API lists, public APIs, and information on free and no-auth-required APIs.
 
-**Tags:** APIs, collections, resources, free APIs
-
----
-
-## [Collection of AI and Automation Resources](./learning.md)
-
-A curated list of resources covering Generative AI, Artificial Intelligence, Automation, and CS Fundamentals from reputable sources like Microsoft, Deeplearning.ai, Stanford, and Google.
-
-**Tags:** AI, Automation, CS Fundamentals, Generative AI
+**Tags:** APIs, collections, resources
 
 ---
 
-## [Collection of Video Production Tools](./videography.md)
+## [Generative AI](./learning.md)
 
-A curated list of various video production tools including AI tools, image generation, VFX, pre-production, shot databases, audio tools, motion graphics, editing plugins, and repositories for video creation and editing purposes.
+Resources and courses on generative AI for beginners by Microsoft and Deeplearning.ai & Andrew Ng.
 
-**Tags:** video production, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing plugins, video repositories
+**Tags:** Generative AI, Beginners, Courses, Microsoft, Deeplearning.ai, Andrew Ng
 
 ---
 
-## [Collection of Tools for Various Purposes](./tools.md)
+## [Collection of Video and AI Tools](./videography.md)
 
-A compilation of web tools for mind mapping, diagram creation, markdown generation, open-source software alternatives, and data visualization.
+A compilation of various video-related tools and AI applications for videography, image generation, VFX, pre-production, audio, motion graphics, editing, and repositories, including RunwayML, D-ID, Eyecandy, and more.
 
-**Tags:** tools, web tools, mind mapping, diagrams, markdown, data visualization, open source
+**Tags:** videography, video tools, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing, repositories
+
+---
+
+## [Tools](./tools.md)
+
+Collection of tools and resources for mind mapping, creating diagrams, generating markdown tables, exploring open-source alternatives, and visualizing JSON/XML trees.
+
+**Tags:** tools, mindmap, diagrams, markdown, open-source, JSON, XML
 
 ---
 
@@ -68,4 +68,4 @@ Collection of tools, models, and repositories for computer vision tasks includin
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-05 17:46:56.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-05 17:53:25.
