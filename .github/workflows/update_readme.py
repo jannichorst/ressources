@@ -93,7 +93,7 @@ def generate_markdown(summaries: List[FullMarkdownSummary], output_file: str):
         file.write("**Disclaimer:**\n\n")
         file.write(f"This summary was automatically created by {model}. Last updated on {last_updated}.\n")
 
-    print(f"Markdown file '{output_file}' has been created successfully.")
+    print(f"Markdown file '{output_file}' has been created successfully at {last_updated}")
 
 
 def main():
