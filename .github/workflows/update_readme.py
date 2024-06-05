@@ -91,9 +91,9 @@ def generate_markdown(summaries: List[FullMarkdownSummary], output_file: str):
         last_updated = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         file.write("---\n\n")
         file.write("**Disclaimer:**\n\n")
-        file.write(f"This summary was automatically created by {model}. Last updated on {last_updated}.\n")
+        file.write(f"This summary was automatically created by {model}. Last updated on {last_updated} UTC.\n")
 
-    print(f"Markdown file '{output_file}' has been created successfully at {last_updated}")
+    print(f"Markdown file '{output_file}' has been created successfully at {last_updated} UTC")
 
 
 def main():
