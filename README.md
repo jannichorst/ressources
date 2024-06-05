@@ -1,18 +1,18 @@
-# Summary of Markdown Files
+# Stuff worth Bookmarking
 
-## [Collection of Web Development Resources](./creative.md)
+## [Web Dev](./creative.md)
 
-Curated list of websites showcasing creative and award-winning designs, categorized by elements and inspiration, including code snippets and dark mode designs.
+A curated collection of websites showcasing creative designs and inspirations in web development, including galleries and categorized inspirations.
 
-**Tags:** web development, design inspiration, code snippets, dark mode
+**Tags:** web development, design inspiration, website galleries
 
 ---
 
-## [APIs](./api.md)
+## [API Collections](./api.md)
 
-A collection of various API resources including API lists, public APIs on GitHub, and a blog post about free and no-auth-required APIs.
+A curated list of websites and resources providing various APIs, including free and no-auth-required options.
 
-**Tags:** APIs, collections, API lists, public APIs, blog post
+**Tags:** APIs, collections, resources
 
 ---
 
@@ -26,57 +26,49 @@ Collection of various resources including web development inspiration, APIs, dat
 
 ## [Datasets and Databases](./data.md)
 
-Collection of datasets and databases related to OCR, documents, scene/images, NLP, and other semantic types, including links to various resources.
+Collection of datasets and databases related to OCR, documents, scene/images, NLP, and other areas, including links to various resources and datasets like COCO Text 2, SynthText, and List of German NLP Datasets.
 
-**Tags:** datasets, databases, OCR, documents, images, NLP, semantic types
+**Tags:** datasets, databases, OCR, documents, images, NLP
 
 ---
 
 ## [Generative AI](./learning.md)
 
-Resources for beginners to learn about Generative AI from Microsoft and Deeplearning.ai.
+Introduction to generative AI for beginners by Microsoft and Deeplearning.ai, including resources and courses by experts like Andrew Ng.
 
-**Tags:** Generative AI, Beginners, Microsoft, Deeplearning.ai
-
----
-
-## [Summary of Markdown Files](./README.md)
-
-Collection of various resources covering web development inspiration, APIs, datasets, Generative AI, video tools, computer vision resources, and tools for mind maps, whiteboards, diagrams, and markdown.
-
-**Tags:** web development, APIs, datasets, Generative AI, video tools, computer vision, tools, mind maps, diagrams
+**Tags:** Generative AI, Beginners, Courses, Microsoft, Deeplearning.ai, Andrew Ng
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-A collection of web development resources including CSS code generator, open-source UI elements, and free SVG brand icons and open source icons for various platforms.
+A collection of web development resources including CSS code generator, open-source UI elements, and free SVG brand icons.
 
 **Tags:** web development, CSS, UI, icons
 
 ---
 
-## [Collection of Video Tools](./videography.md)
+## [Video Related Tools Collection](./videography.md)
 
-A compilation of various AI, image generation, VFX, pre-production, shot database, audio, motion graphics, editing tools, and repositories for videography enthusiasts.
+A curated list of video-related tools ranging from AI tools for video avatar creation to motion graphics and audio generation tools.
 
-**Tags:** videography, video tools, AI, image generation, VFX, audio, motion graphics, editing, repositories
+**Tags:** videography, AI tools, image generation, VFX, pre-production, audio, motion graphics, editing, repositories
 
 ---
 
 ## [Computer Vision Resources](./computer-vision.md)
 
-Collection of tools, models, and repositories for computer vision applications including annotation tools like CVAT and Label Studio, models such as Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+A collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
 
 **Tags:** computer vision, tools, models, repositories
 
 ---
 
-## [List of Useful Tools for Various Tasks](./tools.md)
+## [Collection of Tools for Mindmaps, Diagrams, Markdown, and Data](./tools.md)
 
-Collection of tools including Excalidraw for hand-drawn diagrams, Draw.io for creating diagrams, TableGenerator for markdown tables, and Open Alternative for open source software alternatives.
+A compilation of web tools for creating diagrams, generating markdown tables, exploring open source alternatives, and visualizing JSON/XML trees.
 
-**Tags:** tools, diagrams, markdown, open source, data visualization
+**Tags:** tools, mindmaps, diagrams, markdown, data
 
 ---
 
@@ -84,4 +76,4 @@ Collection of tools including Excalidraw for hand-drawn diagrams, Draw.io for cr
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-05 17:50:36.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-05 17:53:59.

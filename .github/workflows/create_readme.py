@@ -28,8 +28,8 @@ class FullMarkdownSummary(MarkdownSummary):
 
 # Functions
 def list_markdown_files(directory):
-    """Lists all markdown files in the given directory."""
-    markdown_files = [f for f in os.listdir(directory) if f.endswith('.md')]
+    """Lists all markdown files in the given directory, excluding README.md."""
+    markdown_files = [f for f in os.listdir(directory) if f.endswith('.md') and f != 'README.md']
     return markdown_files
 
 
@@ -77,7 +77,7 @@ def generate_summary(markdown_content):
 def generate_markdown(summaries: List[FullMarkdownSummary], output_file: str):
     """Generate a formatted markdown file from a list of FullMarkdownSummary instances."""
     with open(output_file, 'w', encoding='utf-8') as file:
-        file.write("# Summary of Markdown Files\n\n")
+        file.write("# Stuff worth Bookmarking\n\n")
 
         for summary in summaries:
             # Use the path to create a hyperlink for the title
