@@ -17,4 +17,7 @@
 - [List of German NLP Datasets](https://metatext.io/datasets-list/german-language) - Also lists for other languages
 
 ## Other
-- [Semantic Type Registry](https://registry.apicrafter.io/) 
+- [Semantic Type Registry](https://registry.apicrafter.io/)
+
+## Lists 
+- [Huggingface Datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
