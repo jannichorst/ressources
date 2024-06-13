@@ -11,6 +11,7 @@
 - [COCO Text 2](https://vision.cornell.edu/se3/coco-text-2/)
 - [SynthText](https://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 - [IIIT 5K-word](https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset) - 5000 cropped word images from Scene Texts and born-digital images
+- [v7 Labs Open Data](https://www.v7labs.com/open-datasets) - Collection of open CV datasets for different tasks
 
 ### NLP
 - [List of German NLP Datasets](https://metatext.io/datasets-list/german-language) - Also lists for other languages
