@@ -13,3 +13,6 @@
 
 ## Data
 - [JSONCrack](https://jsoncrack.com/) - JSON / XML Tree visualiser
+
+## Desktop
+- [Greenshot](https://getgreenshot.org/) - Screenshot Tool on Steroids (it can do annotations and more)
