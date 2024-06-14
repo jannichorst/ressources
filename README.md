@@ -1,74 +1,74 @@
 # Stuff worth Bookmarking
 
-## [Collection of Creative Resources](./creative.md)
+## [Collection of Web Development Resources](./creative.md)
 
-Curated list of websites for inspiration and design resources including galleries, award-winning sites, and categorized design collections.
+Curated list of websites showcasing creative web designs, including galleries of minimal and dark mode websites, award-winning sites, and design inspiration categorized by elements and styles.
 
-**Tags:** web development, design resources, inspiration
+**Tags:** web development, design inspiration, web design
 
 ---
 
 ## [Datasets and Databases](./data.md)
 
-Collection of datasets and databases related to OCR, documents, scene/images, NLP, and other miscellaneous topics such as semantic type registry and lists of datasets.
+Collection of datasets and databases related to OCR, documents, scene/images, NLP, and other fields including resources like OCR Datasets, IAM Handwriting Database, COCO Text 2, List of German NLP Datasets, and more.
 
-**Tags:** datasets, databases, OCR, documents, images, NLP, lists
+**Tags:** datasets, databases, OCR, documents, images, NLP
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-A collection of web development resources including CSS code generator, open-source UI elements, and free SVG brand icons and customizable icons for projects.
+Collection of resources including CSS code generator, open-source UI elements, and free SVG brand icons for web development projects.
 
-**Tags:** web development, CSS, UI, icons
-
----
-
-## [APIs](./api.md)
-
-A collection of resources and lists of various APIs, including free and no-auth-required options.
-
-**Tags:** APIs, collections, resources, lists
+**Tags:** web development, CSS, UI, icons, resources
 
 ---
 
-## [Collection of AI and Automation Resources](./learning.md)
+## [API Collections](./api.md)
 
-Compilation of resources covering Generative AI, Artificial Intelligence, Automation, and CS Fundamentals from reputable sources like Microsoft, Deeplearning.ai, Stanford, Google, and Humboldt University Berlin.
+A curated list of various APIs including public APIs, free APIs, and a blog post on 'no-auth-required' APIs.
 
-**Tags:** AI, automation, CS fundamentals, resources
+**Tags:** APIs, collections, curated list, public APIs, free APIs
 
 ---
 
-## [Collection of Video and AI Tools](./videography.md)
+## [Generative AI](./learning.md)
 
-A compilation of various tools related to videography, AI, image generation, VFX, pre-production, audio, motion graphics, editing, and repositories for video creation and enhancement.
+Resources for beginners to learn Generative AI from Microsoft and Deeplearning.ai & Andrew Ng.
+
+**Tags:** Generative AI, Beginners, Learning
+
+---
+
+## [Collection of Videography Tools](./videography.md)
+
+A compilation of various AI, image generation, VFX, pre-production, shot-database, audio, motion graphics, editing tools, and repositories for videography enthusiasts.
 
 **Tags:** videography, AI, image generation, VFX, pre-production, audio, motion graphics, editing, repositories
 
 ---
 
-## [Collection of Tools for Various Purposes](./tools.md)
+## [List of Tools for Various Purposes](./tools.md)
 
-A compilation of tools including Excalidraw for diagrams, TableGenerator for markdown tables, Open Alternative for open source software alternatives, JSONCrack for visualizing JSON/XML trees, and Greenshot for advanced screenshot annotations.
+Collection of tools including Excalidraw, Draw.io, DBDiagram.io, TableGenerator, Open Alternative, JSONCrack, and Greenshot for tasks like sketching diagrams, generating markdown tables, finding open source software alternatives, visualizing JSON/XML trees, and taking annotated screenshots.
 
-**Tags:** tools, diagrams, markdown, open source, JSON, screenshots
+**Tags:** tools, software, diagrams, markdown, data visualization, screenshots
 
 ---
 
-## [Collection of recipes for vegan dishes](./python.md)
+## [APIs](./python.md)
 
-A compilation of delicious and nutritious vegan recipes for various meals and occasions
+Collection of APIs for different purposes, including a tool for converting JSON to Pydantic models.
 
-**Tags:** recipes, vegan, cooking
+**Tags:** APIs, JSON, Pydantic, modeling
 
 ---
 
 ## [Computer Vision Resources](./computer-vision.md)
 
-Collection of tools, models, and repositories for computer vision applications including annotation tools like CVAT and Label Studio, models such as Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
 
-**Tags:** computer vision, tools, models, annotation, repositories
+**Tags:** computer vision, tools, models, annotations, repositories
 
 ---
 
@@ -76,4 +76,4 @@ Collection of tools, models, and repositories for computer vision applications i
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-14 07:59:03 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-14 08:00:36 UTC.
