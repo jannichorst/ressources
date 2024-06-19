@@ -20,6 +20,7 @@
 
 ## Lists 
 - [Huggingface Datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [BigML Datasets](https://bigml.com/gallery/datasets)
 
 ## Crawler
 - [Apify](https://apify.com/) - Provides free tier
