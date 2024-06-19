@@ -2,6 +2,7 @@
 
 ### OCR
 - [List of OCR Datasets](https://github.com/xinke-wang/OCRDatasets)
+- [Images and OCR Texts from Medieval Documents](https://live.european-language-grid.eu/catalogue/corpus/18267)
 ### Documents
 - [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
 - [FUNDS](https://guillaumejaume.github.io/FUNSD/) - Form Understanding in Noisy Scanned Documents
