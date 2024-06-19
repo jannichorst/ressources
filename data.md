@@ -1,5 +1,4 @@
-# Datasets and Databases
-
+# Datasets / Databases and Data Tools
 
 ### OCR
 - [List of OCR Datasets](https://github.com/xinke-wang/OCRDatasets)
@@ -21,3 +20,7 @@
 
 ## Lists 
 - [Huggingface Datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+
+## Crawler
+- [Apify](https://apify.com/) - Provides free tier
+- [BrightData](https://brightdata.com/)
