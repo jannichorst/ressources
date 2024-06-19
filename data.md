@@ -14,6 +14,7 @@
 
 ### NLP
 - [List of German NLP Datasets](https://metatext.io/datasets-list/german-language) - Also lists for other languages
+- [ConceptNet](https://live.european-language-grid.eu/catalogue/lcr/4932/download/) - A knowledge graph that connects words and phrases of natural language
 
 ## Other
 - [Semantic Type Registry](https://registry.apicrafter.io/)
@@ -21,6 +22,8 @@
 ## Lists 
 - [Huggingface Datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [BigML Datasets](https://bigml.com/gallery/datasets)
+- [OpenML Datasets(https://www.openml.org/search?type=data&sort=date&status=active)
+- [Google Datasearch](https://datasetsearch.research.google.com/) - Google search for data sets
 - [Datasets for Chatbot training](https://kili-technology.com/data-labeling/machine-learning/24-best-machine-learning-datasets-for-chatbot-training)
 
 ## Crawler
@@ -30,3 +33,4 @@
 ## Benchmarks
 ### Fraud Detection
 - [FDB: Fraud Dataset Benchmark](https://github.com/amazon-science/fraud-dataset-benchmark)
+
