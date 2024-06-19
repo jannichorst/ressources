@@ -1,24 +1,24 @@
 # Stuff worth Bookmarking
 
-## [Creative Ressources](./creative.md)
+## [Creative Resources](./creative.md)
 
-Collection of bookmark-worthy resources including galleries of creative websites, dark mode designs, award-winning sites, and web design inspiration.
+Collection of bookmark-worthy websites categorized into Web Development and General resources, including galleries of creative websites, dark mode designs, award-winning sites, and Bento grid designs.
 
-**Tags:** web design, inspiration, resources, website galleries
+**Tags:** web development, inspiration, design resources
 
 ---
 
 ## [Datasets / Databases and Data Tools](./data.md)
 
-Collection of various datasets, databases, data tools, and resources for OCR, documents, scene/images, NLP, lists, crawlers, and benchmarks in the field of data science and machine learning.
+Collection of various datasets, databases, data tools, and resources for OCR, documents, scene/images, NLP, lists, crawlers, and benchmarks including fraud detection.
 
-**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, lists, crawlers, benchmarks
+**Tags:** datasets, databases, OCR, documents, scene, images, NLP, lists, crawlers, benchmarks, fraud detection
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-A collection of resources including CSS code generator, open-source UI elements, and free SVG brand icons and customizable icons for web and app projects.
+A collection of web development resources including CSS code generators, open-source UI elements, and free SVG brand icons for various platforms.
 
 **Tags:** web development, CSS, UI, icons
 
@@ -26,41 +26,41 @@ A collection of resources including CSS code generator, open-source UI elements,
 
 ## [APIs](./api.md)
 
-Collection of resources and lists of free and no-auth-required APIs for developers.
+Collection of resources and lists of various APIs, including free and no-auth-required options.
 
-**Tags:** APIs, development, resources
+**Tags:** APIs, resources, lists
 
 ---
 
 ## [Generative AI](./learning.md)
 
-Resources for beginners to learn about Generative AI from Microsoft and Deeplearning.ai & Andrew Ng.
+Resources for beginners to learn about generative AI by Microsoft and Deeplearning.ai & Andrew Ng
 
 **Tags:** Generative AI, Beginners, Microsoft, Deeplearning.ai, Andrew Ng
 
 ---
 
-## [Collection of Video and AI Tools](./videography.md)
+## [Video Production Tools Overview](./videography.md)
 
-A compilation of various video production, AI tools, image generation, VFX, pre-production, shot databases, audio editing, motion graphics, and other related resources for videography and content creation.
+A comprehensive list of video production tools including AI tools, image generation, VFX, pre-production, shot databases, audio tools, motion graphics, editing plugins, and repositories for videography enthusiasts.
 
-**Tags:** videography, video production, AI tools, image generation, VFX, audio editing, motion graphics, content creation
+**Tags:** videography, video production, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing plugins, repositories
 
 ---
 
-## [Collection of Tools for Various Purposes](./tools.md)
+## [Collection of Tools for Productivity and Data Management](./tools.md)
 
-A compilation of tools ranging from mind mapping and diagram creation to markdown table generation and open-source software alternatives, including tools for data visualization and desktop screenshots.
+A compilation of various online tools for mind mapping, diagram creation, markdown table generation, open-source software alternatives, data visualization, and desktop screenshot annotations.
 
-**Tags:** tools, mindmap, diagrams, markdown, data, desktop
+**Tags:** tools, productivity, data management, diagrams, markdown, open-source, data visualization, screenshot tools
 
 ---
 
 ## [APIs](./python.md)
 
-Automatic creation of Pydantic model from JSON using JSON to Pydantic tool
+A collection of APIs related to typing, including a tool for automatically creating Pydantic models from JSON
 
-**Tags:** APIs, Pydantic, JSON
+**Tags:** APIs, typing, Pydantic, JSON
 
 ---
 
@@ -68,7 +68,7 @@ Automatic creation of Pydantic model from JSON using JSON to Pydantic tool
 
 Collection of tools, models, and repositories related to computer vision, including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
 
-**Tags:** computer vision, tools, models, repositories
+**Tags:** computer vision, tools, models, repositories, annotation
 
 ---
 
@@ -76,4 +76,4 @@ Collection of tools, models, and repositories related to computer vision, includ
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-19 07:41:09 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-19 07:44:41 UTC.
