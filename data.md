@@ -22,7 +22,7 @@
 ## Lists 
 - [Huggingface Datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [BigML Datasets](https://bigml.com/gallery/datasets)
-- [OpenML Datasets(https://www.openml.org/search?type=data&sort=date&status=active)
+- [OpenML Datasets](https://www.openml.org/search?type=data&sort=date&status=active)
 - [Google Datasearch](https://datasetsearch.research.google.com/) - Google search for data sets
 - [Datasets for Chatbot training](https://kili-technology.com/data-labeling/machine-learning/24-best-machine-learning-datasets-for-chatbot-training)
 
