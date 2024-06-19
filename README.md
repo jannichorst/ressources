@@ -1,10 +1,10 @@
 # Stuff worth Bookmarking
 
-## [Collection of Video and AI Tools](./videography.md)
+## [Collection of Video Related Tools](./videography.md)
 
-A compilation of tools for videography, AI video creation, image generation, VFX, pre-production, shot databases, audio editing, motion graphics, and more.
+A compilation of various AI, image generation, VFX, pre-production, shot database, audio, motion graphics, editing tools, and repositories for videography and filmmaking purposes.
 
-**Tags:** videography, AI tools, image generation, VFX, pre-production, audio editing, motion graphics, editing, repositories
+**Tags:** videography, filmmaking, AI tools, image generation, VFX, pre-production, audio, motion graphics, editing, repositories
 
 ---
 
@@ -18,9 +18,9 @@ Collection of bookmarked resources including galleries of creative websites, dar
 
 ## [Datasets / Databases and Data Tools](./data.md)
 
-Collection of various datasets, databases, and data tools including OCR datasets, document databases, scene/image datasets, NLP datasets, RAG dataset, lists of datasets, crawlers, and a fraud detection benchmark.
+Collection of various datasets, databases, and data tools including OCR datasets, document collections, scene and image datasets, NLP datasets, RAG dataset, lists of datasets, crawlers, and a fraud detection benchmark.
 
-**Tags:** datasets, databases, data tools, OCR, documents, scene images, NLP, RAG dataset, crawlers, fraud detection
+**Tags:** datasets, databases, data tools, OCR, documents, images, NLP, RAG dataset, crawlers, benchmarks
 
 ---
 
@@ -32,19 +32,19 @@ A collection of web development resources including CSS code generator, open-sou
 
 ---
 
-## [Collection of Tools for Various Purposes](./tools.md)
+## [Collection of Tools for Mindmaps, Diagrams, Markdown, and More](./tools.md)
 
-A compilation of web tools and desktop applications for mind mapping, diagram creation, Markdown generation, data visualization, and more, including Excalidraw, Draw.io, DBDiagram.io, TableGenerator, Open Alternative, JSONCrack, and Greenshot.
+A comprehensive list of tools including Excalidraw, Draw.io, DBDiagram.io, TableGenerator, Open Alternative, JSONCrack, and Greenshot for various purposes such as sketching diagrams, generating tables, exploring open source alternatives, and visualizing JSON/XML trees.
 
-**Tags:** tools, web tools, desktop applications, mind mapping, diagram creation, Markdown, data visualization, screenshot tool
+**Tags:** tools, mindmaps, diagrams, markdown, data, desktop
 
 ---
 
-## [APIs](./python.md)
+## [Python Typing: JSON to Pydantic](./python.md)
 
-Collection of API resources including a tool for converting JSON to Pydantic models
+Automatically create a Pydantic model from a JSON in Python.
 
-**Tags:** APIs, JSON, Pydantic, model
+**Tags:** Python, typing, Pydantic, JSON
 
 ---
 
@@ -52,23 +52,23 @@ Collection of API resources including a tool for converting JSON to Pydantic mod
 
 Resources for beginners to learn about Generative AI from Microsoft and Deeplearning.ai & Andrew Ng.
 
-**Tags:** Generative AI, Beginners, Microsoft, Deeplearning.ai, Andrew Ng
+**Tags:** Generative AI, AI, Beginners, Learning
 
 ---
 
 ## [APIs](./api.md)
 
-Collection of resources and links to various API lists, including free and no-auth-required APIs, Github repositories, and API hubs.
+Collection of various resources and repositories containing lists of APIs, including free and 'no-auth-required' APIs.
 
-**Tags:** APIs, resources, lists, Github, API hubs
+**Tags:** APIs, resources, repositories, free APIs
 
 ---
 
 ## [Computer Vision Resources](./computer-vision.md)
 
-Collection of tools, models, and repositories for computer vision applications, including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and resources like OpenCV Model Zoo.
+Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and resources like the OpenCV Model Zoo.
 
-**Tags:** computer vision, tools, models, repositories
+**Tags:** computer vision, tools, models, annotations, OpenCV
 
 ---
 
@@ -76,4 +76,4 @@ Collection of tools, models, and repositories for computer vision applications, 
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-19 08:16:09 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-19 13:05:06 UTC.
