@@ -27,5 +27,5 @@
 - [BrightData](https://brightdata.com/) - Provides a free tier
 
 ## Benchmarks
-### Fraud Detectopm
+### Fraud Detection
 - [FDB: Fraud Dataset Benchmark](https://github.com/amazon-science/fraud-dataset-benchmark)
