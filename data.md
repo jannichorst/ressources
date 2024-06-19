@@ -7,6 +7,7 @@
 ### Documents
 - [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
 - [FUNDS](https://guillaumejaume.github.io/FUNSD/) - Form Understanding in Noisy Scanned Documents
+- [Real World Document Collections](https://www.kaggle.com/datasets/shaz13/real-world-documents-collections) - 16 Class, document classification dataset
 
 ### Scene / Images
 - [COCO Text 2](https://vision.cornell.edu/se3/coco-text-2/)
