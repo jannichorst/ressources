@@ -2,23 +2,23 @@
 
 ## [Creative Ressources](./creative.md)
 
-Collection of bookmark-worthy places including galleries of creative websites, dark mode designs, award-winning sites, and web design inspirations.
+Collection of bookmark-worthy resources including galleries of creative websites, dark mode designs, award-winning sites, and web design inspiration.
 
-**Tags:** web development, design, inspiration
+**Tags:** web design, inspiration, resources, website galleries
 
 ---
 
 ## [Datasets / Databases and Data Tools](./data.md)
 
-Collection of various datasets, databases, data tools, and benchmarks including OCR datasets, image datasets, NLP datasets, and tools like Apify and BrightData.
+Collection of various datasets, databases, data tools, and resources for OCR, documents, scene/images, NLP, lists, crawlers, and benchmarks in the field of data science and machine learning.
 
-**Tags:** datasets, databases, data tools, OCR, images, NLP, benchmarks, crawler
+**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, lists, crawlers, benchmarks
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-Collection of resources for web development including CSS code generator, open-source UI elements, and free SVG brand icons and customizable icons.
+A collection of resources including CSS code generator, open-source UI elements, and free SVG brand icons and customizable icons for web and app projects.
 
 **Tags:** web development, CSS, UI, icons
 
@@ -26,9 +26,9 @@ Collection of resources for web development including CSS code generator, open-s
 
 ## [APIs](./api.md)
 
-Collection of resources listing various APIs including public API repositories and blogs about free and no-auth-required APIs.
+Collection of resources and lists of free and no-auth-required APIs for developers.
 
-**Tags:** APIs, collections, public APIs, resources
+**Tags:** APIs, development, resources
 
 ---
 
@@ -40,33 +40,33 @@ Resources for beginners to learn about Generative AI from Microsoft and Deeplear
 
 ---
 
-## [Video Production Tools Overview](./videography.md)
+## [Collection of Video and AI Tools](./videography.md)
 
-A curated list of various AI, image generation, VFX, pre-production, shot database, audio, motion graphics, and editing tools for video production.
+A compilation of various video production, AI tools, image generation, VFX, pre-production, shot databases, audio editing, motion graphics, and other related resources for videography and content creation.
 
-**Tags:** video production, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing tools
+**Tags:** videography, video production, AI tools, image generation, VFX, audio editing, motion graphics, content creation
 
 ---
 
-## [Collection of Tools for Productivity and Efficiency](./tools.md)
+## [Collection of Tools for Various Purposes](./tools.md)
 
-A compilation of various online and desktop tools for mind mapping, diagram creation, markdown generation, and data visualization, along with a list of open-source alternatives for popular software.
+A compilation of tools ranging from mind mapping and diagram creation to markdown table generation and open-source software alternatives, including tools for data visualization and desktop screenshots.
 
-**Tags:** tools, productivity, diagrams, markdown, data visualization, open source
+**Tags:** tools, mindmap, diagrams, markdown, data, desktop
 
 ---
 
 ## [APIs](./python.md)
 
-Collection of APIs related to typing, including JSON to Pydantic for automatic Pydantic model creation
+Automatic creation of Pydantic model from JSON using JSON to Pydantic tool
 
-**Tags:** APIs, typing, Pydantic, JSON
+**Tags:** APIs, Pydantic, JSON
 
 ---
 
 ## [Computer Vision Resources](./computer-vision.md)
 
-Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+Collection of tools, models, and repositories related to computer vision, including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
 
 **Tags:** computer vision, tools, models, repositories
 
@@ -76,4 +76,4 @@ Collection of tools, models, and repositories for computer vision tasks includin
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-19 07:31:18 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-06-19 07:41:09 UTC.
