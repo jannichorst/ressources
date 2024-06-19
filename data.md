@@ -18,6 +18,8 @@
 - [List of German NLP Datasets](https://metatext.io/datasets-list/german-language) - Also lists for other languages
 - [ConceptNet](https://live.european-language-grid.eu/catalogue/lcr/4932/download/) - A knowledge graph that connects words and phrases of natural language
 
+## RAG
+- [RAG Dataset 12000](https://huggingface.co/datasets/neural-bridge/rag-dataset-12000)
 ## Other
 - [Semantic Type Registry](https://registry.apicrafter.io/)
 
