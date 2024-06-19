@@ -23,4 +23,4 @@
 
 ## Crawler
 - [Apify](https://apify.com/) - Provides free tier
-- [BrightData](https://brightdata.com/)
+- [BrightData](https://brightdata.com/) - Provides a free tier
