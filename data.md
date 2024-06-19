@@ -25,3 +25,7 @@
 ## Crawler
 - [Apify](https://apify.com/) - Provides free tier
 - [BrightData](https://brightdata.com/) - Provides a free tier
+
+## Benchmarks
+### Fraud Detectopm
+- [FDB: Fraud Dataset Benchmark](https://github.com/amazon-science/fraud-dataset-benchmark)
