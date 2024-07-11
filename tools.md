@@ -16,3 +16,6 @@
 
 ## Desktop
 - [Greenshot](https://getgreenshot.org/) - Screenshot Tool on Steroids (it can do annotations and more)
+
+## Development
+- [Jam.dev](https://jam.dev) - Share Bugs in Webapps with replay
