@@ -16,3 +16,4 @@
 
 # Demos / Visualisations / Playground
 - [Explosion.ai Displacy](https://demos.explosion.ai/displacy) - Visualise Dependencies
+- [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html) - interactive visualisation of Non-Linearity in Convolutional Neural Network
