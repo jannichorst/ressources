@@ -13,3 +13,6 @@
 
 # CS Fundamentals
 - [Data Structures & Algorrithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) - By Google
+
+# Demos / Visualisations / Playground
+- [Explosion.ai Displacy](https://demos.explosion.ai/displacy) - Visualise Dependencies
