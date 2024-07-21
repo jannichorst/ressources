@@ -2,6 +2,7 @@
 
 ## CSS
 - [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Soft-UI CSS code generator
+- [TailwindComponents](https://tailwindcomponents.com) - Free Tailwind CSS Components with code
 
 ## UI
 - [Uiverse.io](https://uiverse.io) - Open-Source UI elements for any project
