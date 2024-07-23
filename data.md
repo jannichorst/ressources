@@ -30,6 +30,7 @@
 - [OpenML Datasets](https://www.openml.org/search?type=data&sort=date&status=active)
 - [Google Datasearch](https://datasetsearch.research.google.com/) - Google search for data sets
 - [Datasets for Chatbot training](https://kili-technology.com/data-labeling/machine-learning/24-best-machine-learning-datasets-for-chatbot-training)
+- [NetworkRepository](https://networkrepository.com/) - Repo of Graph Datasets categorized (types, domains)
 
 ## Crawler
 - [Apify](https://apify.com/) - Provides free tier
