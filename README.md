@@ -1,74 +1,74 @@
 # Stuff worth Bookmarking
 
-## [Computer Vision Resources](./computer-vision.md)
+## [Creative Ressources](./creative.md)
 
-Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+Collection of bookmarked websites related to web development and general design inspiration including galleries, award-winning sites, and old school websites.
 
-**Tags:** computer vision, tools, models, repositories
+**Tags:** web development, design inspiration, website galleries
 
 ---
 
 ## [Datasets / Databases and Data Tools](./data.md)
 
-Collection of various datasets, databases, and data tools including OCR datasets, document collections, scene and image datasets, NLP datasets, RAG dataset, lists of datasets, crawlers, and benchmarks for fraud detection.
+Collection of various datasets, databases, data tools, and resources for OCR, documents, scene/images, NLP, RAG, lists, crawlers, and benchmarks in the field of data science and machine learning.
 
-**Tags:** datasets, databases, data tools, OCR, documents, images, NLP, RAG dataset, crawlers, fraud detection
-
----
-
-## [List of Tools for Various Purposes](./tools.md)
-
-Compilation of tools for mind mapping, diagram creation, markdown generation, open source alternatives, data visualization, desktop screenshots, and web development bug sharing.
-
-**Tags:** tools, mindmap, diagrams, markdown, open source, data visualization, desktop, web development
+**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, RAG, lists, crawlers, benchmarks
 
 ---
 
-## [Web Development Resources](./web-development.md)
+## [Collection of Tools for Various Purposes](./tools.md)
 
-Collection of resources for web development including CSS code generators, UI elements, and free SVG brand icons.
+A compilation of web tools and software for mind mapping, diagram creation, markdown table generation, open source alternatives, data visualization, desktop screenshots, and bug sharing in web development.
 
-**Tags:** web development, CSS, UI, icons
+**Tags:** tools, web tools, software, mind mapping, diagrams, markdown, data visualization, desktop, web development
 
 ---
 
 ## [APIs](./api.md)
 
-Collection of various API resources including lists, repositories, and a blog about free and 'no-auth-required' APIs.
+Collection of various API resources including API lists, Github repositories, blogs about free and no-auth-required APIs, and RapidAPI hub.
 
-**Tags:** APIs, resources, lists, repositories, blog
-
----
-
-## [Collection of Video Related Tools](./videography.md)
-
-A compilation of various AI, image generation, VFX, pre-production, shot database, audio, motion graphics, editing, production, and storytelling tools for videography and filmmaking purposes.
-
-**Tags:** videography, filmmaking, AI tools, image generation, VFX, audio, motion graphics, editing, production, storytelling
+**Tags:** APIs, resources, API lists, Github, RapidAPI
 
 ---
 
-## [Python Typing](./python.md)
+## [Computer Vision Resources](./computer-vision.md)
+
+Collection of tools, models, and repositories related to computer vision, including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+
+**Tags:** computer vision, tools, models, repositories
+
+---
+
+## [Videography Knowledge Base](./videography.md)
+
+A curated collection of video-related tools and resources for videography enthusiasts, including AI tools, image generation, VFX, pre-production, shot databases, audio tools, motion graphics, editing plugins, production resources, and repositories.
+
+**Tags:** videography, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing, production, repositories
+
+---
+
+## [Python Typing: JSON to Pydantic](./python.md)
 
 Automatically create a Pydantic model from a JSON
 
-**Tags:** Python, Typing, Pydantic
+**Tags:** Python, Typing, Pydantic, JSON
 
 ---
 
 ## [Generative AI](./learning.md)
 
-Resources for beginners to learn about Generative AI from Microsoft and Deeplearning.ai & Andrew Ng.
+Resources for beginners in Generative AI by Microsoft and Deeplearning.ai & Andrew Ng
 
 **Tags:** Generative AI, Beginners, Microsoft, Deeplearning.ai, Andrew Ng
 
 ---
 
-## [Creative Ressources](./creative.md)
+## [Web Development Resources](./web-development.md)
 
-Collection of bookmark-worthy resources including galleries of creative websites, dark mode designs, award-winning sites, and old school websites.
+Collection of resources including CSS code generators, UI elements, free brand icons, and SVG patterns for web development projects.
 
-**Tags:** web development, inspiration, design resources
+**Tags:** web development, CSS, UI, icons, patterns
 
 ---
 
@@ -76,4 +76,4 @@ Collection of bookmark-worthy resources including galleries of creative websites
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-07-23 13:30:57 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-07-30 19:48:31 UTC.
