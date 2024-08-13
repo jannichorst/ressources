@@ -33,8 +33,12 @@
 - [NetworkRepository](https://networkrepository.com/) - Repo of Graph Datasets categorized (types, domains)
 
 ## Crawler
+### Services
 - [Apify](https://apify.com/) - Provides free tier
 - [BrightData](https://brightdata.com/) - Provides a free tier
+### Test Sites
+- [Webscraper.io](https://webscraper.io/test-sites) - List of test crawling sites
+- [To Scrape Sandboxes](http://toscrape.com/index.html) - Ficticious book store and quotes site to scrape
 
 ## Benchmarks
 ### Fraud Detection
