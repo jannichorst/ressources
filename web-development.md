@@ -6,6 +6,7 @@
 
 ## UI
 - [Uiverse.io](https://uiverse.io) - Open-Source UI elements for any project
+- [Magic UI](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps
 
 ## Icons
 - [Simple Icons](https://simpleicons.org/) - Free SVG brand icons
@@ -15,4 +16,7 @@
 
 ## Patterns
 - [HeroPatterns](https://heropatterns.com/) - Collection of svg patterns
+
+## Gradients
+- [Shader Gradient](https://www.shadergradient.co) - Animated gradient designer that exports to Framer, Figma and React components
 
