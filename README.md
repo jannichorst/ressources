@@ -1,74 +1,74 @@
 # Stuff worth Bookmarking
 
-## [Creative Ressources](./creative.md)
-
-Collection of bookmarked websites related to web development and general design inspiration including galleries, award-winning sites, and old school websites.
-
-**Tags:** web development, design inspiration, website galleries
-
----
-
-## [Datasets / Databases and Data Tools](./data.md)
-
-Collection of various datasets, databases, data tools, and resources for OCR, documents, scene/images, NLP, RAG, lists, crawlers, and benchmarks in the field of data science and machine learning.
-
-**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, RAG, lists, crawlers, benchmarks
-
----
-
-## [Collection of Tools for Various Purposes](./tools.md)
-
-A compilation of web tools and software for mind mapping, diagram creation, markdown table generation, open source alternatives, data visualization, desktop screenshots, and bug sharing in web development.
-
-**Tags:** tools, web tools, software, mind mapping, diagrams, markdown, data visualization, desktop, web development
-
----
-
-## [APIs](./api.md)
-
-Collection of various API resources including API lists, Github repositories, blogs about free and no-auth-required APIs, and RapidAPI hub.
-
-**Tags:** APIs, resources, API lists, Github, RapidAPI
-
----
-
 ## [Computer Vision Resources](./computer-vision.md)
 
-Collection of tools, models, and repositories related to computer vision, including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
 
 **Tags:** computer vision, tools, models, repositories
 
 ---
 
-## [Videography Knowledge Base](./videography.md)
+## [Web Development Resources](./web-development.md)
 
-A curated collection of video-related tools and resources for videography enthusiasts, including AI tools, image generation, VFX, pre-production, shot databases, audio tools, motion graphics, editing plugins, production resources, and repositories.
+Collection of resources including CSS code generators, UI libraries, icons, patterns, and gradients for web development projects.
 
-**Tags:** videography, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing, production, repositories
+**Tags:** web development, CSS, UI, icons, patterns, gradients
 
 ---
 
-## [Python Typing: JSON to Pydantic](./python.md)
+## [Collection of Tools for Various Purposes](./tools.md)
 
-Automatically create a Pydantic model from a JSON
+A compilation of tools for mind mapping, diagram creation, markdown generation, open source alternatives, data visualization, desktop screenshots, and web development bug sharing.
 
-**Tags:** Python, Typing, Pydantic, JSON
+**Tags:** tools, mindmap, diagrams, markdown, open source, data visualization, desktop, development
+
+---
+
+## [APIs](./api.md)
+
+Collection of various resources and repositories related to APIs, including lists of public APIs, free no-auth-required APIs, and API hubs.
+
+**Tags:** APIs, resources, repositories, public APIs
+
+---
+
+## [Datasets / Databases and Data Tools](./data.md)
+
+Collection of various datasets, databases, and data tools including OCR datasets, document databases, scene/image datasets, NLP datasets, RAG dataset, lists of datasets, crawlers, and benchmarks like fraud detection datasets.
+
+**Tags:** datasets, databases, data tools, OCR, documents, images, NLP, RAG dataset, lists, crawlers, benchmarks
+
+---
+
+## [Creative Ressources](./creative.md)
+
+Collection of bookmarked websites related to web development and general design inspiration, including galleries, award-winning sites, and old-school websites.
+
+**Tags:** web development, design inspiration, website galleries
+
+---
+
+## [Collection of Video Related Tools](./videography.md)
+
+A compilation of various AI, image generation, VFX, pre-production, shot database, audio, motion graphics, editing, production, and storytelling tools for videography enthusiasts.
+
+**Tags:** videography, AI tools, image generation, VFX, pre-production, audio, motion graphics, editing, production, storytelling
 
 ---
 
 ## [Generative AI](./learning.md)
 
-Resources for beginners in Generative AI by Microsoft and Deeplearning.ai & Andrew Ng
+Resources for beginners to learn about Generative AI from Microsoft and Deeplearning.ai & Andrew Ng.
 
 **Tags:** Generative AI, Beginners, Microsoft, Deeplearning.ai, Andrew Ng
 
 ---
 
-## [Web Development Resources](./web-development.md)
+## [Python Typing: JSON to Pydantic](./python.md)
 
-Collection of resources including CSS code generators, UI elements, free brand icons, and SVG patterns for web development projects.
+Automatically create a Pydantic model from a JSON in Python.
 
-**Tags:** web development, CSS, UI, icons, patterns
+**Tags:** Python, typing, Pydantic, JSON
 
 ---
 
@@ -76,4 +76,4 @@ Collection of resources including CSS code generators, UI elements, free brand i
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-07-30 19:48:31 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-08-13 16:42:41 UTC.
