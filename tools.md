@@ -24,3 +24,4 @@
 - [Connected Papers](https://www.connectedpapers.com) - Graph view for related papers
 - [Inciteful](https://inciteful.xyz) - Find connected papers and search how papers relate
 - [Research Rabbit](https://researchrabbitapp.com/) - Academic Research tool (free account required)
+- [Epsilon.ai](https://www.epsilon-ai.com/) - AI Search tool to find relevant research to your question
