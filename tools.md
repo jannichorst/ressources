@@ -19,3 +19,8 @@
 
 ## Development
 - [Jam.dev](https://jam.dev) - Share Bugs in Webapps with replay
+
+## Research
+- [Connected Papers](https://www.connectedpapers.com) - Graph view for related papers
+- [Inciteful](https://inciteful.xyz) - Find connected papers and search how papers relate
+- [Research Rabbit](https://researchrabbitapp.com/) - Academic Research tool (free account required)
