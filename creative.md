@@ -9,5 +9,6 @@ Collection of places I deem worth bookmarking
 - [Stack Sorted](https://stacksorted.com/) - Collection of the web's best designs sorted by elements. **including code**
 - [Neocities](https://neocities.org/browse) - Old school websites
 - [Mobbin](https://mobbin.com) - Collection of high quality screens filtered by category
+- [Design Spells](https://www.designspells.com) - Collection of (micro) web animations
 # General
 - [Bento Grids](https://bentogrids.com) - Collection of Bento grid designs
