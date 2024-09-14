@@ -25,3 +25,4 @@
 - [Inciteful](https://inciteful.xyz) - Find connected papers and search how papers relate
 - [Research Rabbit](https://researchrabbitapp.com/) - Academic Research tool (free account required)
 - [Epsilon.ai](https://www.epsilon-ai.com/) - AI Search tool to find relevant research to your question
+- [Storm](https://github.com/stanford-oval/storm) - E2E AI research tool from stanford
