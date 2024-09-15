@@ -7,6 +7,7 @@
 - [ML for Graphs](https://web.stanford.edu/class/cs224w/) - Standford course
 - [Deep Learning on Graphs](https://yaoma24.github.io/dlg_book/dlg_book.pdf) - Book6
 - [ML Crash Course](https://developers.google.com/machine-learning/crash-course) - By Google
+- [Basics of GNNs](https://www.graphneuralnets.com/p/basics-of-gnns/?src=yt%29) - Free Course by WelcomeAIOverlords
 
 # Automation
 - [Fundamentals of Business Process Automation](https://www.youtube.com/playlist?list=PL9iw99lS3Prj5VoC4Bwhmj9Wawd2r-Vtt) -  by Jan Mendling (Prof. at Humboldt University Berlin)
