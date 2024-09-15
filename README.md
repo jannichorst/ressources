@@ -2,55 +2,55 @@
 
 ## [Datasets / Databases and Data Tools](./data.md)
 
-Collection of datasets, databases, data tools, OCR datasets, document collections, scene and image datasets, NLP datasets, RAG dataset, and lists of datasets for various purposes like ML models, chatbot training, and graph datasets.
+Collection of datasets, databases, and data tools including OCR datasets, document databases, scene and image datasets, NLP datasets, RAG dataset, and lists of various datasets. Also includes information on crawlers, services, test sites, and benchmarks for fraud detection.
 
-**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, RAG, ML models, chatbot training, graph datasets
-
----
-
-## [List of Useful Tools for Various Purposes](./tools.md)
-
-A compilation of web tools and resources for mind mapping, diagram creation, markdown generation, data visualization, desktop utilities, development, and research purposes.
-
-**Tags:** tools, web tools, resource compilation, mind mapping, diagram creation, markdown, data visualization, development, research
+**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, RAG, crawlers, services, test sites, benchmarks
 
 ---
 
-## [Collection of Video and AI Tools for Videography Knowledge Base](./videography.md)
+## [Collection of Tools for Various Purposes](./tools.md)
 
-A compilation of various video and AI tools for videography, including AI image generators, motion capture software, editing plugins, and more.
+A curated list of web tools and software for mind mapping, diagram creation, markdown generation, data visualization, desktop utilities, development, and research purposes.
 
-**Tags:** videography, AI tools, video editing, motion graphics, audio production
+**Tags:** tools, web tools, software, mind mapping, diagrams, markdown, data visualization, desktop, development, research
 
 ---
 
-## [Collection of Resources on Various Topics in AI, Automation, and Computer Science](./learning.md)
+## [Video Production Tools Overview](./videography.md)
 
-A compilation of resources covering Generative AI, Artificial Intelligence, Automation, CS Fundamentals, Demos/Visualisations/Playground, and Scraping, provided by reputable sources like Microsoft, Deeplearning.ai, Google, Stanford, and Humboldt University Berlin.
+A comprehensive list of video production tools including AI tools, image generation, VFX, pre-production, shot databases, audio tools, motion graphics, editing, production, and repositories for videographers and filmmakers.
 
-**Tags:** AI, automation, computer science, resources, generative AI, deep learning, data structures, algorithms, web scraping
+**Tags:** video production, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing, production, repositories
+
+---
+
+## [Collection of Resources on Various AI Topics](./learning.md)
+
+A compilation of resources covering Generative AI, Artificial Intelligence, Automation, CS Fundamentals, Demos/Visualisations, and Scraping with links to courses, books, and tools from Microsoft, Deeplearning.ai, Stanford, Google, and more.
+
+**Tags:** AI, Artificial Intelligence, Automation, CS Fundamentals, Demos, Visualisations, Scraping
 
 ---
 
 ## [Computer Vision Resources](./computer-vision.md)
 
-Collection of tools, models, and repositories related to computer vision, including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and repositories like OpenCV Model Zoo.
+Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and model hubs like OpenCV Model Zoo.
 
-**Tags:** computer vision, tools, models, repositories
+**Tags:** computer vision, tools, models, annotation, repositories
 
 ---
 
 ## [APIs](./api.md)
 
-Collection of various API resources including API lists, public APIs, and a blog about free and no-auth-required APIs.
+Collection of various API resources including lists, repositories, and a blog about free and no-auth-required APIs.
 
-**Tags:** APIs, API lists, public APIs, free APIs, no-auth APIs
+**Tags:** APIs, resources, lists, repositories, free APIs
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-Collection of resources including CSS code generators, UI elements, icons, patterns, and gradients for web development projects.
+Collection of web development resources including CSS code generators, UI libraries, free icons, SVG patterns, and animated gradient designers.
 
 **Tags:** web development, CSS, UI, icons, patterns, gradients
 
@@ -64,11 +64,11 @@ Automatically create a Pydantic model from a JSON
 
 ---
 
-## [Creative Ressources](./creative.md)
+## [Collection of Creative Resources](./creative.md)
 
-Collection of bookmark-worthy websites related to web development and general design inspiration.
+Curated list of websites for web development, including galleries of creative designs, dark mode websites, award-winning sites, and old school websites.
 
-**Tags:** web development, design inspiration, website galleries
+**Tags:** web development, design inspiration, web galleries
 
 ---
 
@@ -76,4 +76,4 @@ Collection of bookmark-worthy websites related to web development and general de
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-09-14 10:56:35 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-09-15 13:44:48 UTC.
