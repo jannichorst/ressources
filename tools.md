@@ -13,6 +13,7 @@
 
 ## Data
 - [JSONCrack](https://jsoncrack.com/) - JSON / XML Tree visualiser
+- [JSON Formatter](https://github.com/callumlocke/json-formatter?tab=readme-ov-file) - Chrome plugin to format raw JSON in the browser
 
 ## Desktop
 - [Greenshot](https://getgreenshot.org/) - Screenshot Tool on Steroids (it can do annotations and more)
