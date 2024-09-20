@@ -1,61 +1,5 @@
 # Stuff worth Bookmarking
 
-## [Datasets / Databases and Data Tools](./data.md)
-
-Collection of datasets, databases, and data tools including OCR datasets, document databases, scene and image datasets, NLP datasets, RAG dataset, and lists of various datasets. Also includes information on crawlers, services, test sites, and benchmarks for fraud detection.
-
-**Tags:** datasets, databases, data tools, OCR, documents, scene, images, NLP, RAG, crawlers, services, test sites, benchmarks
-
----
-
-## [Collection of Tools for Various Purposes](./tools.md)
-
-A curated list of web tools and software for mind mapping, diagram creation, markdown generation, data visualization, desktop utilities, development, and research purposes.
-
-**Tags:** tools, web tools, software, mind mapping, diagrams, markdown, data visualization, desktop, development, research
-
----
-
-## [Video Production Tools Overview](./videography.md)
-
-A comprehensive list of video production tools including AI tools, image generation, VFX, pre-production, shot databases, audio tools, motion graphics, editing, production, and repositories for videographers and filmmakers.
-
-**Tags:** video production, AI tools, image generation, VFX, pre-production, audio tools, motion graphics, editing, production, repositories
-
----
-
-## [Collection of Resources on Various AI Topics](./learning.md)
-
-A compilation of resources covering Generative AI, Artificial Intelligence, Automation, CS Fundamentals, Demos/Visualisations, and Scraping with links to courses, books, and tools from Microsoft, Deeplearning.ai, Stanford, Google, and more.
-
-**Tags:** AI, Artificial Intelligence, Automation, CS Fundamentals, Demos, Visualisations, Scraping
-
----
-
-## [Computer Vision Resources](./computer-vision.md)
-
-Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and model hubs like OpenCV Model Zoo.
-
-**Tags:** computer vision, tools, models, annotation, repositories
-
----
-
-## [APIs](./api.md)
-
-Collection of various API resources including lists, repositories, and a blog about free and no-auth-required APIs.
-
-**Tags:** APIs, resources, lists, repositories, free APIs
-
----
-
-## [Web Development Resources](./web-development.md)
-
-Collection of web development resources including CSS code generators, UI libraries, free icons, SVG patterns, and animated gradient designers.
-
-**Tags:** web development, CSS, UI, icons, patterns, gradients
-
----
-
 ## [Python Typing](./python.md)
 
 Automatically create a Pydantic model from a JSON
@@ -64,11 +8,67 @@ Automatically create a Pydantic model from a JSON
 
 ---
 
-## [Collection of Creative Resources](./creative.md)
+## [Creative Ressources](./creative.md)
 
-Curated list of websites for web development, including galleries of creative designs, dark mode websites, award-winning sites, and old school websites.
+Collection of curated websites for web development inspiration, including galleries of creative websites, dark mode designs, award-winning sites, and old school websites.
 
-**Tags:** web development, design inspiration, web galleries
+**Tags:** web development, inspiration, design, websites
+
+---
+
+## [Curated Resources on AI, Automation, CS Fundamentals, Demos, and Scraping](./learning.md)
+
+Collection of curated resources on Generative AI, Artificial Intelligence, Automation, CS Fundamentals, Demos/Visualisations/Playground, and Scraping from various reputable sources like Microsoft, Google, Deeplearning.ai, Stanford, and more.
+
+**Tags:** AI, Artificial Intelligence, Automation, CS Fundamentals, Demos, Visualisations, Scraping
+
+---
+
+## [Collection of Tools for Various Purposes](./tools.md)
+
+A compilation of web-based and desktop tools for mind mapping, diagram creation, markdown table generation, data visualization, desktop screenshots, web development bug sharing, academic research, and AI research.
+
+**Tags:** tools, web tools, desktop tools, data visualization, research, AI research
+
+---
+
+## [Computer Vision Resources](./computer-vision.md)
+
+Collection of tools, models, and repositories for computer vision tasks including annotation tools like CVAT and Label Studio, models like Yolo v8 and CLIP, and resources like OpenCV Model Zoo.
+
+**Tags:** computer vision, tools, models, annotation, OpenCV
+
+---
+
+## [Datasets / Databases and Data Tools](./data.md)
+
+Collection of datasets, databases, data tools, OCR datasets, NLP datasets, image datasets, and benchmark datasets for various tasks like fraud detection, document understanding, and machine learning model training.
+
+**Tags:** datasets, databases, data tools, OCR, NLP, images, fraud detection, machine learning
+
+---
+
+## [Video Production Tools Overview](./videography.md)
+
+A comprehensive list of video production tools covering AI, VFX, pre-production, shot databases, audio, motion graphics, editing, and production, with links to various tools and their functionalities.
+
+**Tags:** video production, AI tools, VFX, audio, motion graphics, editing, production
+
+---
+
+## [APIs](./api.md)
+
+Collection of resources and links to various API lists and repositories, including free and 'no-auth-required' APIs.
+
+**Tags:** APIs, collections, resources, links, repositories
+
+---
+
+## [Web Development Resources](./web-development.md)
+
+Collection of resources including CSS code generators, UI libraries, free icons, svg patterns, and gradient designers for web development projects.
+
+**Tags:** web development, CSS, UI, icons, patterns, gradients
 
 ---
 
@@ -76,4 +76,4 @@ Curated list of websites for web development, including galleries of creative de
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-09-15 13:44:48 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-09-20 11:24:52 UTC.
