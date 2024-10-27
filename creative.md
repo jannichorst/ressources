@@ -16,7 +16,9 @@ Collection of places I deem worth bookmarking
 # Mockups
 - [Fockups](https://fockups.com) - These f*cked up mockups show your design in a realistic way
 
-
+# Tools
+- [halftone.xoihazard](https://halftone.xoihazard.com) - Web based halftone generator
+- 
   
 # General
 - [Bento Grids](https://bentogrids.com) - Collection of Bento grid designs
