@@ -1,16 +1,16 @@
 # Stuff worth Bookmarking
 
-## [List of Useful Tools for Various Purposes](./tools.md)
+## [Collection of Tools for Various Purposes](./tools.md)
 
-Compilation of web tools and desktop applications for mind mapping, diagram creation, markdown generation, data visualization, desktop screenshots, development bug sharing, academic research, and AI search.
+A curated list of tools ranging from mind mapping and diagram creation to data visualization, desktop utilities, development aids, and research resources.
 
-**Tags:** tools, web tools, desktop applications, mind mapping, diagram creation, markdown, data visualization, development, research, academic research, AI search
+**Tags:** tools, mindmap, diagrams, markdown, data, desktop, development, research
 
 ---
 
-## [Video and AI Tools Knowledge Base](./videography.md)
+## [Collection of Video Related Tools](./videography.md)
 
-A comprehensive collection of video and AI tools for videography, image generation, VFX, pre-production, shot database, audio, motion graphics, editing, production, and repositories.
+A compilation of various AI, image generation, VFX, pre-production, shot database, audio, motion graphics, editing, production, and repository tools for videography and filmmaking purposes.
 
 **Tags:** videography, AI tools, image generation, VFX, pre-production, audio, motion graphics, editing, production, repositories
 
@@ -18,25 +18,25 @@ A comprehensive collection of video and AI tools for videography, image generati
 
 ## [Creative Ressources](./creative.md)
 
-Collection of bookmarked resources including galleries of creative websites, dark mode designs, award-winning sites, and website inspiration by categories.
+Collection of bookmarked resources including galleries of creative websites, dark mode designs, award-winning sites, web animations, and interactive websites.
 
 **Tags:** web development, design, inspiration
 
 ---
 
-## [Collection of Resources on Various Topics in AI, Automation, CS Fundamentals, Demos, and Scraping](./learning.md)
+## [Collection of Resources in AI, Automation, CS Fundamentals, Demos, and Scraping](./learning.md)
 
-A compilation of resources covering Generative AI, Artificial Intelligence, Automation, CS Fundamentals, Demos/Visualisations/Playground, and Scraping, provided by reputable sources like Microsoft, Deeplearning.ai, Google, Stanford, and more.
+A curated list of resources covering topics such as Generative AI, Artificial Intelligence, Automation, CS Fundamentals, Demos, Visualisations, and Scraping from reputable sources like Microsoft, Deeplearning.ai, Google, Stanford, and more.
 
-**Tags:** AI, Automation, CS Fundamentals, Demos, Scraping
+**Tags:** AI, Automation, CS Fundamentals, Demos, Visualisations, Scraping
 
 ---
 
 ## [Datasets / Databases and Data Tools](./data.md)
 
-Collection of various datasets, databases, data tools, and services related to OCR, documents, scene/images, NLP, RAG, lists, crawlers, and benchmarks.
+Collection of datasets, databases, and data tools including OCR datasets, document collections, scene and image datasets, NLP datasets, RAG dataset, lists of datasets, crawlers, and fraud detection benchmarks.
 
-**Tags:** datasets, databases, data tools, OCR, documents, images, NLP, RAG, crawlers, benchmarks
+**Tags:** datasets, databases, data tools, OCR, documents, images, NLP, RAG dataset, crawlers, fraud detection
 
 ---
 
@@ -50,25 +50,25 @@ Collection of tools, models, and repositories for computer vision tasks includin
 
 ## [APIs](./api.md)
 
-Collection of various resources and lists of APIs including free, no-auth-required APIs and repositories like RapidAPI and Github Public APIs.
+Collection of various API resources including API lists, repositories, blogs, and platforms like RapidAPI.
 
-**Tags:** APIs, resources, lists
+**Tags:** APIs, resources, API lists, repositories, blogs, platforms
 
 ---
 
 ## [Web Development Resources](./web-development.md)
 
-Collection of resources including CSS code generators, UI libraries, free icons, SVG patterns, and gradient designers for web development projects.
+Compilation of CSS generators, UI libraries, icon sets, patterns, and gradients for web development projects.
 
 **Tags:** web development, CSS, UI, icons, patterns, gradients
 
 ---
 
-## [Python Typing](./python.md)
+## [Python Typing: JSON to Pydantic](./python.md)
 
-Automatically create a Pydantic model from a JSON
+Automatically create a Pydantic model from a JSON in Python
 
-**Tags:** Python, Typing, Pydantic, JSON
+**Tags:** Python, typing, Pydantic, JSON
 
 ---
 
@@ -76,4 +76,4 @@ Automatically create a Pydantic model from a JSON
 
 **Disclaimer:**
 
-This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-10-11 21:17:10 UTC.
+This summary was automatically created by gpt-3.5-turbo. Last updated on 2024-10-27 14:12:27 UTC.
