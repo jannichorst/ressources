@@ -35,6 +35,7 @@ Just a collection of video related tools I find interesting.
 # Motion Graphics
 - [Jitter](https://jitter.video) - Webbased Motion Graphics Tool
 - ✨[Animate Code](https://www.animate-code.com) - Animated Code Slideshow in the Browser
+- [Flowjam](https://www.flowjam.co) - Video Agency with a lot of SaaS video examples.
 
 # Others
 - [TV-Tropes](https://tvtropes.org) - Collects and documents descriptions and examples of plot conventions and devices
