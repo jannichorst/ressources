@@ -8,6 +8,7 @@
 ## CSS
 - [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Soft-UI CSS code generator
 - [TailwindComponents](https://tailwindcomponents.com) - Free Tailwind CSS Components with code
+- [9elements Fancy border radius](https://9elements.github.io/fancy-border-radius/) - visual web tool to create shapes with fancy border radius
 
 ## UI
 - [Uiverse.io](https://uiverse.io) - Open-Source UI elements for any project
@@ -19,6 +20,9 @@
 - [IconSVG.xyz](https://iconsvg.xyz/) - Quick customizable icons for your projects
 - [Hero Icons](https://heroicons.com/) - MIT Licensed Icons
 - [Recraft.AI](https://www.recraft.ai/community) - Art & Icon Generator, Free plan available
+- [Lordicon](https://lordicon.com) - Free and Paid animated icons
+- [Hugeicons](https://hugeicons.com) - Free and Paid premium icons
+- [Lucide.dev](https://lucide.dev) - Free premium Icons for web-dev and SVG download
 
 ## Patterns
 - [HeroPatterns](https://heropatterns.com/) - Collection of svg patterns
