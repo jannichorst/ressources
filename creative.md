@@ -11,5 +11,7 @@ Collection of places I deem worth bookmarking
 - [Mobbin](https://mobbin.com) - Collection of high quality screens filtered by category
 - [Design Spells](https://www.designspells.com) - Collection of (micro) web animations
 - [Web Interactions Gallery](https://www.webinteractions.gallery) - Collection of interactive websites
+- [brandingwebsite](https://www.brandingwebsite.com) - Collection of landing pages, projects, color palettes from brands
+- 
 # General
 - [Bento Grids](https://bentogrids.com) - Collection of Bento grid designs
