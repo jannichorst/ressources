@@ -13,6 +13,7 @@
 - [ionicons](https://ionic.io/ionicons) - Open source icons for use in web, iOS, Android, and desktop apps
 - [IconSVG.xyz](https://iconsvg.xyz/) - Quick customizable icons for your projects
 - [Hero Icons](https://heroicons.com/) - MIT Licensed Icons
+- [Recraft.AI](https://www.recraft.ai/community) - Art & Icon Generator, Free plan available
 
 ## Patterns
 - [HeroPatterns](https://heropatterns.com/) - Collection of svg patterns
