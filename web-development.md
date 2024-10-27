@@ -1,5 +1,10 @@
 # Web Development Ressources
 
+## Tools
+- [Penpot](https://penpot.app) - Open Source webdesign tool
+- [Plasmic](https://www.plasmic.app) - Visual website builder that integrates in codebase, free plan available
+- [Uizard](https://uizard.io) - AI powererd UI generator and protoype builder, limited free version
+
 ## CSS
 - [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Soft-UI CSS code generator
 - [TailwindComponents](https://tailwindcomponents.com) - Free Tailwind CSS Components with code
