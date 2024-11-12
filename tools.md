@@ -12,7 +12,7 @@
 - [Open Alternative](https://openalternative.co) - List of open source alternatives for popular software
 
 ## Data
-- [JSONCrack](https://jsoncrack.com/) - JSON / XML Tree visualiser
+- [JSONCrack](https://jsoncrack.com/) - JSON / XML Tree visualiser -> [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
 - [JSON Formatter](https://github.com/callumlocke/json-formatter?tab=readme-ov-file) - Chrome plugin to format raw JSON in the browser
 
 ## Desktop
