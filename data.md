@@ -24,6 +24,9 @@
 ## Other
 - [Semantic Type Registry](https://registry.apicrafter.io/)
 
+## Computer Vision
+- [xView3 Dark Vessels](https://iuu.xview.us/)
+
 ## Lists 
 - [Huggingface Datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [BigML Datasets](https://bigml.com/gallery/datasets)
