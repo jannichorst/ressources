@@ -1,6 +1,9 @@
 # Creative Ressources
 Collection of places I deem worth bookmarking
 
+# Assets
+- [SVGL](https://svgl.app) - Library of brand & tech logo svgs
+
 # Web Dev
 - [Minimal Gallery](https://www.minimal.gallery) - Gallery of creative websites
 - [Darkmodedesign](https://www.darkmodedesign.com/) - Gallery of creative dark mode websites
