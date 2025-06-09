@@ -23,6 +23,7 @@
 - [RAG Dataset 12000](https://huggingface.co/datasets/neural-bridge/rag-dataset-12000)
 ## Other
 - [Semantic Type Registry](https://registry.apicrafter.io/)
+- [Open Addresses](https://batch.openaddresses.io/data#map=0/0/0)
 
 ## Computer Vision
 - [xView3 Dark Vessels](https://iuu.xview.us/)
