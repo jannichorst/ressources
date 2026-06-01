@@ -8,4 +8,4 @@
 - [RapidAPI](https://rapidapi.com/hub)
 
 ## Geolocate IP
-- [ip2location.io](https://www.ip2location.io/pricing)
+- [ip2location.io](https://www.ip2location.io/pricing) - Seems to have good free tier
